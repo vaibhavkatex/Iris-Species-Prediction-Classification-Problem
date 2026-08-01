@@ -2,6 +2,13 @@
 
 A Machine Learning web application built with **Streamlit** that predicts the species of an Iris flower using the **K-Nearest Neighbors (KNN)** algorithm.
 
+## 🚀 Live Demo
+
+Try the deployed Streamlit application:
+
+🔗 **Streamlit App:**   
+https://iris-species-predictionx.streamlit.app/
+
 ## Features
 
 - Predicts Iris Species
