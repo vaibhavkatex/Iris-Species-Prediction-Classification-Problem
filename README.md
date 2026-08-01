@@ -4,7 +4,7 @@ A Machine Learning web application built with **Streamlit** that predicts the sp
 
 ## 🚀 Live Demo
 
-Try the deployed Streamlit application:
+deployed Streamlit application:
 
 🔗 **Streamlit App:**   
 https://iris-species-predictionx.streamlit.app/
