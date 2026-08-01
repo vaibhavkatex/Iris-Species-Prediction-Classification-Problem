@@ -113,5 +113,4 @@ Iris-KNN-Classifier/
 5. Click **Deploy**.
 
 ## Author
-
-Vaibhav Katex
+Vaibhav Kate
